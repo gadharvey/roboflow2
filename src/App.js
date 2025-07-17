@@ -3,7 +3,7 @@ import axios from "axios";
 import Webcam from "react-webcam";
 import "./App.css"; // si quieres más estilos luego
 
-const API_URL = "https://a36fa3105bd9.ngrok-free.app";
+const API_URL = "https://d12f880d746e.ngrok-free.app";
 
 function App() {
   const webcamRef = useRef(null);
