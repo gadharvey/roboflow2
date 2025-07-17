@@ -81,7 +81,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>🧠 Detección de Objetos con YOLOv8</h1>
+      <h1 style={styles.title}>🧠 Detección de Objetos En Oficina</h1>
 
       <div style={styles.buttonGroup}>
         <button style={styles.button} onClick={() => setUseCam(false)}>
